@@ -17,7 +17,7 @@ If you are not familiar with the different technologies used in this project, pl
 - [Next-Auth.js](https://next-auth.js.org)
 - [Prisma](https://prisma.io)
 - [TailwindCSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io) (using @next version? [see v10 docs here](https://alpha.trpc.io))
+- [tRPC](https://trpc.io) (using @next version? [see v10 docs here](https://trpc.io/docs/v10/))
 
 Also checkout these awesome tutorials on `create-t3-app`.
 
@@ -226,5 +226,3 @@ Here are some useful references you can further look into:
 Here are some resources that we commonly refer to:
 
 - [Protecting routes with Next-Auth.js](https://next-auth.js.org/configuration/nextjs#unstable_getserversession)
-# haggyman-t3
-# haggyman-t3
